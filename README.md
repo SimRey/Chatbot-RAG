@@ -1,4 +1,4 @@
-# README: Chat with Websites Application
+# Chat with Websites Application
 
 ## Overview
 
